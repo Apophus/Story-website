@@ -1,0 +1,32 @@
+
+      .Header{
+         position: absolute;
+         left:30px;
+         border: 2px solid red;
+         background-color: #ffff00;
+         text-align: center;
+           }
+       body{
+         background-color: black;
+        }
+      #Title{
+          font-family: 'Poiret one',cursive;
+         color: greenyellow;
+          text-align: center;
+        }
+      .Footer{
+         background-color: green;
+         font-family: Lobster;
+        color:#000000;
+          clear: both;
+        }
+      p{
+       color:green;
+      }
+      h2{
+       color:green;
+      }
+      .story{
+        border:2px solid red;
+        padding:2px 3px 2px 3px;
+       }
