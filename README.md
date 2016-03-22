@@ -1,1 +1,1 @@
-# Story-website
+#An African story website
